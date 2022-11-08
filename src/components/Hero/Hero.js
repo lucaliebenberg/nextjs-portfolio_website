@@ -17,8 +17,8 @@ const Hero = () => (
       </SectionTitle>
       <SectionText>
         An interaction designer and developer, who is constantly learning new
-        frontend and blockchain technologies to grow as a Fullstack
-        Javascript/Blockchain developer.
+        frontend and blockchain technologies to grow as a Fullstack Javascript
+        and Blockchain developer.
       </SectionText>
       <Button
         onClick={() =>
