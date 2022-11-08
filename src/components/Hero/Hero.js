@@ -16,9 +16,9 @@ const Hero = () => (
         Luca Liebenberg
       </SectionTitle>
       <SectionText>
-        I am an interaction designer and developer. I am constantly learning new
-        frontend and blockchain technologies, such as React and Solidity, to
-        grow as a Fullstack Javascript/Blockchain developer.
+        An interaction designer and developer, who is constantly learning new
+        frontend and blockchain technologies to grow as a Fullstack
+        Javascript/Blockchain developer.
       </SectionText>
       <Button
         onClick={() =>
